@@ -1,7 +1,7 @@
 # Projeto-Easy
 <br>
 <br>
-<h1>Esse foi meu primeiro projeto dentro Devclube<a href="https://rodolfomori.com.br"/> devclub</a></h1>
+<h1>Projeto desenvolvido dentro<a href="https://rodolfomori.com.br"/> devclub</a></h1>
 <br>
 <h2>Tecnologia usada no projeto</h2>
 
