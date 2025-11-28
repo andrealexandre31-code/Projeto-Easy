@@ -1,4 +1,4 @@
-# Projeto-Easy
+# Projeto-We Care
 <br>
 <br>
 <h1>Projeto desenvolvido dentro<a href="https://rodolfomori.com.br"/> devclub</a></h1>
