@@ -44,7 +44,7 @@ h1 {
     width: 582px;
     height: 164px;
     position: absolute;
-    top: 30%;
+    top: 10%;
     color: #161A49;
     margin-left: 85px; 
 }
@@ -57,7 +57,7 @@ p {
     color: #4B505A;
     opacity: .8;
     position: absolute;
-    top: 50%;
+    top: 40%;
     margin-left: 85px; 
 }
 .Link-main {
